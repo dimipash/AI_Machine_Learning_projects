@@ -1,0 +1,11 @@
+[project]
+name = "nlp-ai-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "nltk>=3.9.2",
+    "torch>=2.9.0",
+    "transformers>=4.57.1",
+]
