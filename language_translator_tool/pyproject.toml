@@ -1,0 +1,10 @@
+[project]
+name = "language-translator-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "googletrans==4.0.0rc1",
+    "tk>=0.1.0",
+]
